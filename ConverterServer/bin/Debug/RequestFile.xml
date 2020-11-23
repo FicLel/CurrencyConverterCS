@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConvertRequest>
+  <from>USD</from>
+  <to>EUR</to>
+  <units>10</units>
+</ConvertRequest>

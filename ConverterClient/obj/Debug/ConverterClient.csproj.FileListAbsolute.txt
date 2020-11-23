@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\ConverterClient.exe.config
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\ConverterClient.exe
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\ConverterClient.pdb
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.abstractions.dll
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.assert.dll
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.core.dll
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.execution.desktop.dll
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.abstractions.xml
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.assert.xml
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.core.xml
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\bin\Debug\xunit.execution.desktop.xml
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\obj\Debug\ConverterClient.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\obj\Debug\ConverterClient.csproj.CopyComplete
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\obj\Debug\ConverterClient.exe
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\obj\Debug\ConverterClient.pdb
+C:\Users\victo\source\repos\ConverterClient\ConverterClient\obj\Debug\ConverterClient.csprojAssemblyReference.cache
